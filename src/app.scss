@@ -1,0 +1,15 @@
+$fontsize : 20px;
+$colorp : grey;
+$colorh2 : yellow;
+body {
+font-size: $fontsize;
+}
+p {
+  color: $colorp;
+}
+h1 {
+  color: red;
+}
+h2 {
+  color:$colorh2;
+}
